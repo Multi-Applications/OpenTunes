@@ -1,0 +1,17 @@
+{
+  "name": "opentunes",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Radio player with Radio-Browser API built with TypeScript.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^7.1.12"
+  }
+}
