@@ -2,7 +2,9 @@
 
 # OpenTunes
 
-Web radio player with Radio-Browser API built with TypeScript and TailWind CSS
+Open source web radio player with Radio-Browser API built with TypeScript and TailWind CSS.
+No tracking, no data selling.
+**Just radio!**
 
 ## Infomation
 
