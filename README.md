@@ -6,7 +6,7 @@ Web radio player with Radio-Browser API built with TypeScript and TailWind CSS
 
 ## Infomation
 
-[![Website](https://img.shields.io/badge/OpenTunes%20website-blue?style=flat\&link=https://open-tunes.pages.dev)](https://opentunes.pages.dev)
+[![Website](https://img.shields.io/badge/OpenTunes%20website-blue?style=flat\&link=https://open-tunes.pages.dev)](https://open-tunes.pages.dev)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE)
 
 ## Features
