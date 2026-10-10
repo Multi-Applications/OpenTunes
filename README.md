@@ -1,4 +1,4 @@
-<img src="https://open-tunes.pages.dev/icon.webp" alt="OpenTunes Logo" width="256" />
+<img src="https://open-tunes.pages.dev/icon.webp" alt="OpenTunes Logo" width="128" />
 
 # OpenTunes
 
